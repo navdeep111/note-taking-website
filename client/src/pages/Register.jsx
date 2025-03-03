@@ -22,7 +22,7 @@ const Register = () => {
     // sending data to backend using fetch api
     try {
       let response = await fetch(
-        `https://note-taking-website.onrender.com/api/auth/register`,
+        `https://note-taking-website-8uje.onrender.com/api/auth/register`,
         {
           method: "POST",
           headers: { "Content-Type": "application/json" },

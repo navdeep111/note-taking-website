@@ -19,7 +19,7 @@ const Contact = () => {
     // sending data to backend using fetch api
     try {
       let response = await fetch(
-        `https://note-taking-website.onrender.com/api/contact`,
+        `https://note-taking-website-8uje.onrender.com/api/contact`,
         {
           method: "POST",
           headers: { "Content-Type": "application/json" },
