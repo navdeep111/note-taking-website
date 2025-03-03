@@ -28,6 +28,9 @@ app.use("/api/auth", router);
 app.use("/api", noterouter);
 app.use("/api", contactrouter);
 
+app.get('/',(req,res)=>{
+  res.send('Hello Backend is running')
+})
 const port = 3000;
 connectDB().then(() => {
   app.listen(port, () => {
