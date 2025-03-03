@@ -72,7 +72,7 @@ const register = async (req, res) => {
 
   We're Here to Help:
       
-  If you have any questions or need assistance, don't hesitate to reach out to our friendly customer support team at codewithpawanofficial@gmail.com. We're always happy to help!
+  If you have any questions or need assistance, don't hesitate to reach out to our friendly customer support team at guptanavdeep9461@gmail.com. We're always happy to help!
       
   Best regards,
       
