@@ -91,7 +91,8 @@ userSchema.methods.generateToken = async function () {
         userId: this._id.toString(),
         email: this.email,
       },
-      process.env.JWT_SECRET_KEY,
+      // process.env.JWT_SECRET_KEY,
+      1888,
       {
         expiresIn: "30d",
       }

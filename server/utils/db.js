@@ -1,5 +1,6 @@
 const mongoose = require("mongoose");
-const MongoURI = process.env.MONGODB_URI;
+// const MongoURI = process.env.MONGODB_URI;
+const MongoURI = "mongodb+srv://Gupta:Gupta@cluster1.bsa7u.mongodb.net/?retryWrites=true&w=majority&appName=Cluster1";
 
 /**
  * The function `connectDB` connects to a MongoDB database using the `mongoose` library and logs a
