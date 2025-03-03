@@ -1,10 +1,4 @@
 <div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/pawantech12/note-taking-website)
-  ![GitHub stars](https://img.shields.io/github/stars/pawantech12/note-taking-website?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/pawantech12/note-taking-website?style=social)
-
-  <br />
 
   <h2 align="center">NotePlus: A MERN Stack Web App</h2>
 
